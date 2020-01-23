@@ -1,4 +1,4 @@
 {
     "go.useLanguageServer": true,
-    "go.inferGopath": true
+    "go.gopath": "/home/vsonline/workspace:/go"
 }
